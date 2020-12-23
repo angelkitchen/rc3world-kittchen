@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"kueche_groundzero.json#rtrn_trap"
+                 "value":"kueche_groundzero.json#rtrn_traplvl"
                 }],
          "type":"tilelayer",
          "visible":true,
