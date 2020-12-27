@@ -128,7 +128,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"<anarchist-village>\/main.json"
+                 "value":"{<anarchist-village>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,

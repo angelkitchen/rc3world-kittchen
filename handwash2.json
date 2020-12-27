@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"<lobby>\/maps\/generic-assemblies.json#start_engelkittchen"
+                 "value":"{<lobby>\/maps\/generic-assemblies.json#start_engelkittchen}"
                 }],
          "type":"tilelayer",
          "visible":true,

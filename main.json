@@ -92,7 +92,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"<lobby>\/maps\/generic-assemblies.json#start_engelkittchen"
+                 "value":"{<lobby>\/maps\/generic-assemblies.json#start_engelkittchen}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -164,7 +164,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"<c3gelb>\/main.json"
+                 "value":"{<c3gelb>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
