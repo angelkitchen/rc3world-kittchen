@@ -252,9 +252,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"play.m3u"
+                 "value":"https:\/\/rc3.161hz.de\/live\/play.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -409,7 +409,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2020.12.18",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
