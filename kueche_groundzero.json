@@ -270,9 +270,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"<shared>jitsiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"kitchenparty"
+                 "value":"shared kitchenparty"
                 }],
          "type":"tilelayer",
          "visible":true,
