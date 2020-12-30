@@ -91,7 +91,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"kitchenbackstage"
+                 "value":"shared kitchenparty"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"feuertonne"
+                 "value":"shared kitchenparty"
                 }],
          "type":"tilelayer",
          "visible":true,
